@@ -115,20 +115,22 @@ Flagged as HIGH severity
 ---
 ## 💼 WORK EXPERIENCE
 
-Corizo – Cybersecurity VAPT Intern | Sep 2023 (1 Month)
-• Performed basic penetration testing and vulnerability assessment on web applications
-• Learned bug bounty methodologies and real-world exploitation techniques
-• Identified common vulnerabilities such as XSS, SQL Injection, and misconfigurations
-Nova Tech IT Solutions – Web Development Intern
-• Developed and maintained web applications using HTML, CSS, JavaScript
-• Built RESTful APIs and integrated backend services with frontend interfaces
-• Managed databases (MySQL) for CRUD operations and data modeling
-• Used Git for version control and collaborated in team-based development
-• Gained exposure to cloud-based deployment environments
-Unified Mentor – Cybersecurity Blue Team Intern | Mar 2026 – Present
-• Working on SOC operations including monitoring, detection, and incident response
-• Performing log analysis and threat detection using SIEM tools
-• Strengthening knowledge in blue team methodologies and defense strategies
+Corizo – Cybersecurity VAPT Intern | Sep 2023 (1 Month)  
+• Performed basic penetration testing and vulnerability assessment on web applications   
+• Learned bug bounty methodologies and real-world exploitation techniques   
+• Identified common vulnerabilities such as XSS, SQL Injection, and misconfigurations  
+
+Nova Tech IT Solutions – Web Development Intern  
+• Developed and maintained web applications using HTML, CSS, JavaScript  
+• Built RESTful APIs and integrated backend services with frontend interfaces  
+• Managed databases (MySQL) for CRUD operations and data modeling  
+• Used Git for version control and collaborated in team-based development  
+• Gained exposure to cloud-based deployment environments  
+
+Unified Mentor – Cybersecurity Blue Team Intern | Mar 2026 – Present  
+• Working on SOC operations including monitoring, detection, and incident response  
+• Performing log analysis and threat detection using SIEM tools  
+• Strengthening knowledge in blue team methodologies and defense strategies  
 
 --- 
 
