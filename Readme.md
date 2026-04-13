@@ -14,16 +14,16 @@ I enjoy analyzing suspicious activities, identifying threats, and building tools
 
 ---
 
-## 🎓 Certifications  
+## 🎓 Certifications    
  
--Microsoft Cybersecurity Analyst Professional Certificate
--Google Cybersecurity Professional Certificate
--Splunk Search Expert Specialization Certificate
--SIEM Splunk Hands-On Guide Specialization Certificate
--Certified Support Technician – Cybersecurity (CISCO)
--Certificate of Cybersecurity Assessment – LearnTube
--Certificate of Cybersecurity Training – CORIZO
--Ethical Hacker certificate - CISCO Networking academy 
+-Microsoft Cybersecurity Analyst Professional Certificate  
+-Google Cybersecurity Professional Certificate  
+-Splunk Search Expert Specialization Certificate  
+-SIEM Splunk Hands-On Guide Specialization Certificate  
+-Certified Support Technician – Cybersecurity (CISCO)  
+-Certificate of Cybersecurity Assessment – LearnTube  
+-Certificate of Cybersecurity Training – CORIZO  
+-Ethical Hacker certificate - CISCO Networking academy   
 
 ---
 
